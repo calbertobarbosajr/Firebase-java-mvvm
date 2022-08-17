@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebasewithjava</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="repeatPassword">Repeat your password</string>
+    <string name="Signup">Not Registered? Sign Up Here</string>
+    <string name="recoverPassword">Forgot your password?</string>
+    <string name="your_web_client_id"></string>
+</resources>
